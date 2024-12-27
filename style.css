@@ -1,0 +1,9 @@
+.navImage img{
+    width: 10%;
+    place-items: center;
+}
+
+img {
+    margin-top: 70px;
+    width: 40%;
+}
